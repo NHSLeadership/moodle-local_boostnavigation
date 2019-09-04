@@ -4,6 +4,11 @@ moodle-local_boostnavigation
 Changes
 -------
 
+### Unreleased
+
+* 2020-08-04 - Feature: Adopt the features the modify the My courses nodes list from the plugin local_boostcoc to local_boostnavigation.
+               Please don't enable these new features when you still have local_boostcoc in production.
+
 ### v3.8-r2
 
 * 2020-08-04 - Bugfix: User logs can't be viewed anymore if the participants node was set to be removed - Credits to zpottie.
